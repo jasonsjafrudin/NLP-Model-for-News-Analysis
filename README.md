@@ -94,11 +94,11 @@ Image represent % of negative articles by Job
 <img width="274" alt="image" src="https://github.com/jasonsjafrudin/NLP-Model-for-News-Analysis/assets/61297201/6a205aab-a391-47e7-b2c6-1d4fae28b7ad">
 <img width="272" alt="image" src="https://github.com/jasonsjafrudin/NLP-Model-for-News-Analysis/assets/61297201/7e5c05f4-aa17-43f6-8402-a3456669d2a0">
 
-- When considering the overall trend across the years since 2020, Ukraine holds the top spot as the most skeptical to AI, while Russia emerges at the top for the most recent year.
+- When considering the overall trend across the years since 2020, Ukraine holds the top spot as the most skeptical to AI, while Russia emerges at the top for the most recent year.
 - Across all countries, the prevalence of articles exhibiting positive sentiments outweighs those with negative sentiments. This trend suggests a significant shift in the world perceptions and acceptance toward AI, data science, and machine learning since 2020 and is projected to continue this trend moving forward.
 - ChatGPT, GPT3.5, Vertex AI, and JavaScript are some of the main AI solutions that might be affecting the employment landscape today.
 - All products boast a majority (>50%) of articles portraying positive sentiments, signaling substantial investment in AI-driven transformation since 2020. Leading the charge is Xeon, a brand of x86 microprocessors manufactured by Intel Corporation, with an impressive 91% of articles reflecting positive sentiments.
-- Although all products demonstrate significant investment in AI-driven transformations, PlayStation, today, while still showing a positive outlook on AI integration, appears to be the least likely to undergo AI-driven transformations compared to the other products.
+- Although all products demonstrate significant investment in AI-driven transformations, PlayStation, today, while still showing a positive outlook on AI integration, appears to be the least likely to undergo AI-driven transformations compared to the other products.
 
 
 
@@ -112,7 +112,7 @@ Aim to become a Judge presiding over court proceedings in Russia.
 Focus on industries such as Politics, Law, or Finance.
 Prefer professions such as Attorney, Politician, Judge, or Lawyer.
 If working in the political industry, lean towards affiliations with the Republican Party.
-Avoid employment with Big Tech companies and Gray Television, Inc. If interested in Big Tech, prioritize companies like Twitter or Google.
+Avoid employment with Big Tech companies and Gray Television, Inc. If interested in Big Tech, prioritize companies like Twitter or Google.
 3. Geographic Considerations:
 Consider working in countries such as Russia, Ukraine, or Israel.
 
@@ -127,7 +127,7 @@ Specialized Recommendations- Consider investing in the following technologies to
 - AI-Powered Devices and Wearables: Utilize these for early detection and prevention of health issues, reducing the need for costly interventions or hospitalizations, particularly beneficial for healthcare companies.
 - Personalized Treatment Systems: Implement systems to identify biomarkers and genetic variants influencing patient responses to treatment, reducing trial-and-error approaches and unnecessary treatments, saving time and resources for healthcare companies.
 - Automated Underwriting Systems (AUS): Automate the underwriting process for loan applications, particularly advantageous for financial companies.
-- Credit Scoring Models: Employ models to automate the analysis of borrower data and predict creditworthiness, offering efficiency benefits for financial companies.
+- Credit Scoring Models: Employ models to automate the analysis of borrower data and predict creditworthiness, offering efficiency benefits for financial companies.
 
 Integration of AI Solutions: 
 - Explore integrating leading AI solutions such as ChatGPT, JavaScript, GPT3.5, and Vertex AI into your company. These technologies are revolutionizing job automation:
